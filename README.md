@@ -2,6 +2,9 @@
 
 Welcome to the CSS stylesheet repository for business-agency. This stylesheet is designed to provide a consistent, modern, and professional look.
 
+## Preview
+<img src='/code/img/preview_project.png'>
+
 ## Features
 
 - **Modern Layouts**: Utilizes Flexbox for flexible and efficient layout management.
@@ -49,6 +52,9 @@ All contributions are welcome to improve stylesheet. To contribute please follow
 # business-agency-header-css ✔️ 
 
 Bienvenido al repositorio de hojas de estilo CSS para business-agency. Esta hoja de estilo está diseñada para proporcionar una apariencia consistente, moderna y profesional.
+
+## Vista previa
+<img src='/code/img/preview_project.png'>
 
 ## Características
 
